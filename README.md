@@ -13,7 +13,7 @@ Hi, I’m Keerthana Kola graduated from University of Massachusetts, Boston with
 You can reach out to me on 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kola-keerthana" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kola-keerthana?trk=profile-badge">Keerthana Kola - LinkedIn</a> </div>
 
-kolakkeerthana@gmail.com 
+keerthanakolaa@gmail.com 
 
 <!---
 kolakkeerthana/kolakkeerthana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
