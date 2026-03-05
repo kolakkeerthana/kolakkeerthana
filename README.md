@@ -2,6 +2,8 @@
 
 Hi, I’m Keerthana Kola graduated from University of Massachusetts, Boston with a major in Information Technology (4.0 CGPA). A member of Beta Gama Sigma community honored to the business students and scholars in business programs. 
 
+✅ I can design and deploy predictive models using machine learning, clustering, and classification techniques in Python
+
 ✅ I can develop functional dashboards with relevant KPIs in Tableau and Power BI 
 
 ✅ I can write complex, efficient SQL queries/scripts to extract data
